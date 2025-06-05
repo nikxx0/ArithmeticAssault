@@ -5,4 +5,4 @@
 Бакалдин Никита
 Дьячков Михаил
 
-Скачать игру можно здесь: [тык](DownloadGame/ArithmeticAssault.7z)
+Скачать игру можно здесь: [тык](https://github.com/nikxx0/ArithmeticAssault/tree/main/Download%20Game)
